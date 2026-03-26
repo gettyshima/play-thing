@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 22a01f4ce7500031cf1e893050fc3febdba8d87f gettyshima <gertrudeahemba@gmail.com> 1774522522 +0100	commit (initial): Create and update README for play_thing
+22a01f4ce7500031cf1e893050fc3febdba8d87f 3a87eef096565b48288cd006d0fc7df9d35081a4 gettyshima <gertrudeahemba@gmail.com> 1774524557 +0100	commit: Create and update README.md for house-box-model
+3a87eef096565b48288cd006d0fc7df9d35081a4 216be211537d053c268ed88df19ec0ae6562bef6 gettyshima <gertrudeahemba@gmail.com> 1774524648 +0100	commit: Rename house directory fo easier understanding
+216be211537d053c268ed88df19ec0ae6562bef6 bb117f3927f8259248143de118499c82732b45af gettyshima <gertrudeahemba@gmail.com> 1774525250 +0100	commit: create house html and css files
+bb117f3927f8259248143de118499c82732b45af 84c9b96c96b48be54c2df77fef2d185c3c6637e2 gettyshima <gertrudeahemba@gmail.com> 1774529762 +0100	commit: Create the roof of the house
+84c9b96c96b48be54c2df77fef2d185c3c6637e2 a64403a9c3b67c58c3535a4a45b3db0becc9bdda gettyshima <gertrudeahemba@gmail.com> 1774529984 +0100	commit: Create the wall of the house
+a64403a9c3b67c58c3535a4a45b3db0becc9bdda 77d258d35f21341ea855005b498598370ca676e7 gettyshima <gertrudeahemba@gmail.com> 1774533598 +0100	commit: Create the window of the house, including the knob
+77d258d35f21341ea855005b498598370ca676e7 6778d52bcb4db0a956041c82c03478114bcf62d5 gettyshima <gertrudeahemba@gmail.com> 1774543554 +0100	commit: Create the door of the house, with a knob and hover effect
