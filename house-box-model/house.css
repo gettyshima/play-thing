@@ -12,3 +12,10 @@
     margin-left: auto;
     margin-right: auto;
 }
+.wall{
+    border: 10px solid black;
+    height: 1000px;
+    width: 1000px;
+    margin: 500px auto;
+    background-color: brown;
+}
